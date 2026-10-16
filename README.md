@@ -19,7 +19,5 @@
 
 ---
 
-### 📄 My CV
-- [Latest version](https://drive.google.com/file/d/1oaleL5aU3nY2eTQyXbiIIV7lnlyRZQp_/view?usp=drive_link)
 
 ⭐️ Thanks for visiting my profile!
